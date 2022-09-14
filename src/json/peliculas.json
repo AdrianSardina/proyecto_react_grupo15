@@ -1,0 +1,39 @@
+[
+{  
+    "img":"../img/pelicula1.jpg",
+    "titulo":"Day shift",
+    "descripcion":"Filme que narra la historia de un humilde padre que trabaja duro y que solo quiere darle una buena vida a su hija de 8 años. Sin embargo, su mundano trabajo de limpieza de piscinas en el Valle de San Fernando es una fachada para su verdadera fuente de ingresos: cazar y matar vampiros.",
+    "duracion":"120 min",
+    "actores":"Jamie Foxx, Dave Franco, Natasha Liu Bordizzo, Meagan Good, Karla Souza, Steve Howey, Scott Adkins, Snoop Dogg"
+},
+
+{
+    "img":"../img/pelicula2.jpg",
+    "titulo":"Prey",
+    "descripcion":"Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crio a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras",
+    "duracion":"150 min",
+    "actores":"Amber Midthunder,Dakota Beavers, Dane DiLiegro, Michelle Thrush, Stormee Kipp, Julian Black Antelope, Bennett Taylor"
+},
+{
+    "img":"../img/pelicula3.jpeg",
+    "titulo":"Bullet Train",
+    "descripcion":"Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.",
+    "duracion":"126 min",
+    "actores":"Brad Pitt, Joey King, Aaron Taylor-Johnson, Brian Tyree Henry, Andrew Koji, Hiroyuki Sanada, Michael Shannon, Bad Bunny, Sandra Bullock"
+},
+
+{
+    "img":"../img/pelicula4.jpg",
+    "titulo":"Top Gun: Maverick",
+    "descripcion":"Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete Mitchell (Tom Cruise) está donde pertenece, empujando los límites como un valiente piloto de pruebas y esquivando el ascenso de rango que lo dejaría en tierra",
+    "duracion":"130 min",
+    "actores":"Tom Cruise, Miles Teller, Jennifer Connelly, Jon Hamm, Glen Powell, Ed Harris, Val Kilmer, Lewis Pullman"
+},
+{
+    "img":"../img/pelicula5.jfif",
+    "titulo":"Uncharted",
+    "descripcion":"Basada en una de las series de videojuegos más vendidas y aclamadas por la crítica de todos los tiempos, Uncharted presenta a un joven, astuto y carismático, Nathan Drake (Tom Holland) en su primera aventura como cazatesoros con su ingenioso compañero Victor “Sully” Sullivan (Mark Wahlberg). En una aventura de acción que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda de “el mayor tesoro nunca antes encontrado” al tiempo que rastrean las claves que les podrían conducir al hermano de Nathan, perdido hace ya mucho tiempo.",
+    "duracion":"116 min",
+    "actores":"Tom Holland, Mark Wahlberg, Sophia Ali, Tati Gabrielle, Antonio Banderas"
+}
+]

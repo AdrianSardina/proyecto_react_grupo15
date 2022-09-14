@@ -1,24 +1,42 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import Main from './components/Main';
+import Section from './components/Section';
+import Pelicula from './components/Pelicula';
+import pelicula from './json/peliculas.json'
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container style={{ backgroundColor:"#D4CDCD" }} >
+       <Header/>
+       <Main/>
+       <Section/>
+       
+       
+       <Row>
+        <Col>
+        <br></br>
+        {pelicula.map(peli =>
+        <Pelicula
+          img={peli.img}
+          titulo = {peli.titulo}
+          descripcion = {peli.descripcion}
+          duracion = {peli.duracion}
+          actores = {peli.actores}  
+        ></Pelicula>)}
+        </Col>
+       
+       </Row>
+         
+       
+                                                
+    </Container>
+    
+    
   );
 }
 
