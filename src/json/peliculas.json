@@ -1,39 +1,44 @@
 [
 {  
-    "img":"../img/pelicula1.jpg",
-    "titulo":"Day shift",
-    "descripcion":"Filme que narra la historia de un humilde padre que trabaja duro y que solo quiere darle una buena vida a su hija de 8 años. Sin embargo, su mundano trabajo de limpieza de piscinas en el Valle de San Fernando es una fachada para su verdadera fuente de ingresos: cazar y matar vampiros.",
-    "duracion":"120 min",
-    "actores":"Jamie Foxx, Dave Franco, Natasha Liu Bordizzo, Meagan Good, Karla Souza, Steve Howey, Scott Adkins, Snoop Dogg"
+    "img":"../img/deadpool.jpg",
+    "titulo":"DeadPool",
+    "descripcion":"Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida..",
+    "duracion":"h:1 min:48m",
+    "actores":"Rayan Reynolds - Morena Baccarin - T.J Miller",
+    "trailer":"https://www.youtube.com/watch?v=QyU7glpHg-c&ab_channel=20thCenturyStudiosEspa%C3%B1a"
 },
 
 {
-    "img":"../img/pelicula2.jpg",
-    "titulo":"Prey",
-    "descripcion":"Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crio a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras",
-    "duracion":"150 min",
-    "actores":"Amber Midthunder,Dakota Beavers, Dane DiLiegro, Michelle Thrush, Stormee Kipp, Julian Black Antelope, Bennett Taylor"
+    "img":"../img/patch adams.jpg",
+    "titulo":"Patch Adams",
+    "descripcion":"Basada en una historia real, la película es la biografía del médico Patch Adams (Robin Williams), que revolucionó a la comunidad médica oficial aplicando singulares terapias consistentes en hacer reír y proporcionar afecto a los pacientes enfermos de cáncer.",
+    "duracion":"h:1 min:55m",
+    "actores":"Robin Williams - Monica Potter - Philip Seymour",
+    "trailer":"https://www.youtube.com/watch?v=lZqGA1ldvYE&ab_channel=RottenTomatoesClassicTrailers"
 },
 {
-    "img":"../img/pelicula3.jpeg",
-    "titulo":"Bullet Train",
-    "descripcion":"Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.",
-    "duracion":"126 min",
-    "actores":"Brad Pitt, Joey King, Aaron Taylor-Johnson, Brian Tyree Henry, Andrew Koji, Hiroyuki Sanada, Michael Shannon, Bad Bunny, Sandra Bullock"
+    "img":"../img/elconjuro.png",
+    "titulo":"El Conjuro",
+    "descripcion":"Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno..",
+    "duracion":"h:1 min:52m",
+    "actores":"Vera Farmiga - Patrick Wilson",
+    "trailer":"https://www.youtube.com/watch?v=oUyHULb7xDI&ab_channel=iMovieTrailersMx"
 },
 
 {
-    "img":"../img/pelicula4.jpg",
-    "titulo":"Top Gun: Maverick",
-    "descripcion":"Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete Mitchell (Tom Cruise) está donde pertenece, empujando los límites como un valiente piloto de pruebas y esquivando el ascenso de rango que lo dejaría en tierra",
-    "duracion":"130 min",
-    "actores":"Tom Cruise, Miles Teller, Jennifer Connelly, Jon Hamm, Glen Powell, Ed Harris, Val Kilmer, Lewis Pullman"
+    "img":"../img/ironman.png",
+    "titulo":"Iron Man",
+    "descripcion":"El multimillonario fabricante de armas Tony Stark debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro para combatir el mal a escala global..",
+    "duracion":"h:2 min:6m",
+    "actores":"Robert Downey Jr. - Jon Favreau - Gwyneth Paltrow",
+    "trailer":"https://www.youtube.com/watch?v=8ugaeA-nMTc&t=63s&ab_channel=RottenTomatoesClassicTrailers"
 },
 {
-    "img":"../img/pelicula5.jfif",
-    "titulo":"Uncharted",
-    "descripcion":"Basada en una de las series de videojuegos más vendidas y aclamadas por la crítica de todos los tiempos, Uncharted presenta a un joven, astuto y carismático, Nathan Drake (Tom Holland) en su primera aventura como cazatesoros con su ingenioso compañero Victor “Sully” Sullivan (Mark Wahlberg). En una aventura de acción que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda de “el mayor tesoro nunca antes encontrado” al tiempo que rastrean las claves que les podrían conducir al hermano de Nathan, perdido hace ya mucho tiempo.",
-    "duracion":"116 min",
-    "actores":"Tom Holland, Mark Wahlberg, Sophia Ali, Tati Gabrielle, Antonio Banderas"
+    "img":"../img/annabelle.png",
+    "titulo":"Annabelle",
+    "descripcion":"John Form encuentra el regalo perfecto para su mujer embarazada, Mia: una preciosa e inusual muñeca vintage que lleva un vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho. Durante una espantosa noche la pareja ve como miembros de una secta satánica invaden su hogar y los atacan brutalmente. No sólo dejan sangre derramada y terror tras su visita…los miembros de la secta conjuran a un ente de tal maldad que nada de lo que han hecho se compara al siniestro camino a la maldición que ahora es… Annabelle.",
+    "duracion":"h:1 min:39m",
+    "actores":"Annabelle Wallis - Ward Horton - Alfre Woodard",
+    "trailer":"https://www.youtube.com/watch?v=8kmLHwKH31M&ab_channel=WarnerBros.PicturesEspa%C3%B1a"
 }
 ]
