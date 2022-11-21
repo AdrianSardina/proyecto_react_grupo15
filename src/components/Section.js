@@ -10,9 +10,9 @@ function Section() {
   };
 
   return (<Row>
- <div class="title">
+ <div >
     <h1>Proximos Estrenos</h1>
-    <button class="see_all_button"> Ver todos</button>
+    <button > Ver todos</button>
 </div>
 <Carousel  variant="dark" activeIndex={index} onSelect={handleSelect}>
       <Carousel.Item>

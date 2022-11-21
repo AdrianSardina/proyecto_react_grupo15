@@ -20,8 +20,9 @@ function App() {
        <Row>
         <Col>
         <br></br>
-        {pelicula.map(peli =>
+        {pelicula.map((peli,i) =>
         <Pelicula
+          key = {i}
           img={peli.img}
           titulo = {peli.titulo}
           descripcion = {peli.descripcion}
